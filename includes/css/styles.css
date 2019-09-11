@@ -1,0 +1,120 @@
+/*
+
+My Custom CSS
+=============
+
+Author:  Brad Hussey
+Updated: August 2013
+Notes:	 Hand coded for Udemy.com
+
+*/
+
+
+/* --------------------------------------
+   Layout
+   -------------------------------------- */
+
+
+
+/* --------------------------------------
+   Typography
+   -------------------------------------- */
+#imageinput{
+   height:70px;
+   margin-bottom:0px;
+   float:left;
+ }
+ .navbar-brand
+ {
+     padding: 1px 2px;
+ }
+ #myCarousel
+ {
+     width:90%;
+     margin-top: 70px;
+     margin-left: 70px;
+     height: 500px;
+ }
+#shik img
+{   align-self: auto;
+    align-content: center;
+    width:500px;
+    height: 500px;
+    
+}
+
+/* --------------------------------------
+   Navbar
+   -------------------------------------- */
+   #searchinput {
+    width: 200px;
+   }
+  .maha h1,p  
+   {
+       float:right;
+       margin-top:0px;
+       margin-bottom: 90px;
+       margin-left:400px;
+       color: black;
+   }
+   .kashi p
+   {
+       margin-bottom: 100px;
+   }
+   .kashi h1
+   {   margin-top:100px;    
+       margin-right:30px;
+       float:right;
+       margin-bottom:120px;
+       color: black;
+   }
+   .technex h1
+   {   float:right;
+       color:black; 
+       margin-right: 50px;
+       margin-bottom:100px;
+
+   }
+   .li p
+   {
+    text-align: center;
+   }
+   .lp img
+   {
+    height: 135px;
+    width: 350px;
+   } 
+   .lq img
+   {
+       width:100%;
+   }
+/* --------------------------------------
+   Carousel
+   -------------------------------------- */
+
+
+
+/* --------------------------------------
+   Global Styles
+   -------------------------------------- */
+
+
+
+/* --------------------------------------
+   Media Queries
+   -------------------------------------- */
+
+/* Portrait & landscape phone */
+@media (max-width: 480px) {
+	
+}
+
+/* Landscape phone to portrait tablet */
+@media (max-width: 768px) {
+	
+}
+
+/* Large desktop */
+@media (min-width: 1200px) {
+	
+}

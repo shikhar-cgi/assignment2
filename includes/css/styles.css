@@ -88,6 +88,55 @@ Notes:	 Hand coded for Udemy.com
    {
        width:100%;
    }
+   #bigCallout
+   {
+       margin-top:20px;
+   }
+   #features
+   {
+       margin-top:40px;
+   }
+   .panel
+   {
+    height: 400px;
+    width: 400px;   
+   }
+   .cont p
+   {   width:200px;
+       margin-top:40px;
+       margin-right: 100px;
+       text-align: center;
+   }
+   .lead
+   {   width:970px;
+       margin-right:200px;
+       float:right;
+   }
+   .qo
+   {
+       margin-left:
+   }
+   .ta1 p
+   {   margin-top:20px;
+       width: 100%;
+   }
+.tab-pane p
+{
+    width:96%;
+    margin:20px
+
+}
+.tt p
+{    
+    
+    width:96%;
+    margin:20px;
+
+}
+.aw p
+{
+    width:100%;
+}
 /* --------------------------------------
    Carousel
    -------------------------------------- */
@@ -108,6 +157,7 @@ Notes:	 Hand coded for Udemy.com
 @media (max-width: 480px) {
 	
 }
+
 
 /* Landscape phone to portrait tablet */
 @media (max-width: 768px) {
